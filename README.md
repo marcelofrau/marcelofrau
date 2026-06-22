@@ -78,6 +78,7 @@ Beyond the software side: I mod, repair, and tune classic consoles to work bette
 | Project | Description | Stack |
 |---|---|---|
 | [trespordez.com.br](https://trespordez.com.br) | 🕹️ Retrogaming blog — emulation guides, hardware deep-dives, preservation | WordPress |
+| [xb-homebrew-vault](https://github.com/marcelofrau/xb-homebrew-vault) | 📦 Curated repository and preservation of legacy homebrew and tools for the original Xbox | C# / .NET 8 / Avalonia |
 | [OpenBurningSuite](https://github.com/marcelofrau/OpenBurningSuite) | 💿 Active fork: open-source disc burning with retro gaming presets (PS1-5, Dreamcast, Saturn…) | C# / .NET 8 / Avalonia |
 | [emulio](https://github.com/PizzaGames/emulio) | 🎮 EmulationStation-inspired frontend — being rebuilt as [kortex](https://github.com/marcelofrau/kortex) | Kotlin / LibGDX |
 | [gamelistify](https://github.com/tres-por-dez/gamelistify) | 📋 Desktop editor for EmulationStation gamelist.xml | Python / CustomTkinter |
