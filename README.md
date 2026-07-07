@@ -82,7 +82,7 @@ Beyond the software side: I mod, repair, and tune classic consoles to work bette
 | [OpenBurningSuite](https://github.com/marcelofrau/OpenBurningSuite) | 💿 Active fork: open-source disc burning with retro gaming presets (PS1-5, Dreamcast, Saturn…) | C# / .NET 8 / Avalonia |
 | [emulio](https://github.com/PizzaGames/emulio) | 🎮 EmulationStation-inspired frontend — being rebuilt as [kortex](https://github.com/marcelofrau/kortex) | Kotlin / LibGDX |
 | [gamelistify](https://github.com/tres-por-dez/gamelistify) | 📋 Desktop editor for EmulationStation gamelist.xml | Python / CustomTkinter |
-| [switchcraft-keys-too](https://github.com/marcelofrau/switchcraft-keys-too) | ⌨️ Auto keyboard layout switching via Raw Input API | Rust (WIP) |
+| [switchcraft-keys](https://github.com/marcelofrau/switchcraft-keys) | ⌨️ Auto keyboard layout switching via Raw Input API | C# / .NET 8 / Avalonia |
 | [city-route-calculator](https://github.com/marcelofrau/city-route-calculator) | 🗺️ Microservice: route calculation with Dijkstra variant algorithm | Java |
 
 ---
