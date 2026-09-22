@@ -68,7 +68,7 @@ Gemini image generation (including Imagen/NanoBanana) and other generative tools
 
 ## 🕹️ Retrogaming & hardware
 
-Outside of work I run **[trespordez.com.br](https://trespordez.com.br)** — a retrogaming blog focused on emulation, hardware preservation, and classic computing. Writing as *The Archivist*.
+Outside of work I run **[trespordez.pages.dev](https://trespordez.pages.dev)** — a retrogaming blog focused on emulation, hardware preservation, and classic computing. Writing as *The Archivist*.
 
 Beyond the software side: I mod, repair, and tune classic consoles to work better in today's setups — any hardware from the Atari era to 6th gen and beyond. GDEmu swaps, region-free patches, recap jobs, RGB mods, ODE installs — all fair game. Also into: MAME · CHD tooling · DOS/retro computing · Cars · Movies & Series
 
@@ -77,7 +77,7 @@ Beyond the software side: I mod, repair, and tune classic consoles to work bette
 ## 📌 Selected projects
 | Project | Description | Stack |
 |---|---|---|
-| [trespordez.com.br](https://trespordez.com.br) | 🕹️ Retrogaming blog — emulation guides, hardware deep-dives, preservation | WordPress |
+| [trespordez.pages.dev](https://trespordez.pages.dev) | 🕹️ Retrogaming blog — emulation guides, hardware deep-dives, preservation | Jekyll / Cloudflare Pages |
 | [xb-homebrew-vault](https://github.com/marcelofrau/xb-homebrew-vault) | 📦 Curated repository and preservation of legacy homebrew and tools for the original Xbox | C# / .NET 8 / Avalonia |
 | [OpenBurningSuite](https://github.com/marcelofrau/OpenBurningSuite) | 💿 Active fork: open-source disc burning with retro gaming presets (PS1-5, Dreamcast, Saturn…) | C# / .NET 8 / Avalonia |
 | [emulio](https://github.com/PizzaGames/emulio) | 🎮 EmulationStation-inspired frontend — being rebuilt as [kortex](https://github.com/marcelofrau/kortex) | Kotlin / LibGDX |
